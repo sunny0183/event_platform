@@ -3,7 +3,7 @@ import { CosmosClient } from "@azure/cosmos";
 
 
 const MONGODB_URI = process.env.MONGODB_URI;
-const COSMOS_URI = process.env.COSMOS_URI || "NoId";
+const COSMOS_URI = process.env.COSMOS_URI || "NoId ";
 //const COSMOS_ENDPOINT = process.env.COSMOS_ENDPOINT || "";
 //const COSMOS_KEY = process.env.COSMOS_KEY|| "";
 
